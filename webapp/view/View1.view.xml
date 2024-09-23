@@ -7,7 +7,6 @@
                 <VBox id="VBox0">
                     <!-- Input field for user name -->
                     <Input id="nameInput" placeholder="Enter your name"/>
-                    
                     <!-- Button to trigger the alert -->
                     <Button id="submitButton" text="Submit" press="onSubmit" class="sapUiTinyMarginTop"/>
                 </VBox>
