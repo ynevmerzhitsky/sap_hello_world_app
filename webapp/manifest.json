@@ -20,7 +20,7 @@
         "semanticobjecthelloworld-show": {
           "semanticObject": "semanticobjecthelloworld",
           "action": "show",
-          "icon": "sap-icon://account",
+          "icon": "sap-icon://hello-world",
           "title": "{{flpTitle}}",
           "signature": {
             "parameters": {},
