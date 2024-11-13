@@ -17,9 +17,9 @@
     },
     "crossNavigation": {
       "inbounds": {
-        "semanticobjecthelloworld-show": {
+        "semanticobjecthelloworld-display": {
           "semanticObject": "semanticobjecthelloworld",
-          "action": "show",
+          "action": "display",
           "icon": "sap-icon://hello-world",
           "title": "{{flpTitle}}",
           "signature": {
